@@ -841,6 +841,9 @@ FakesAssemblies/
 .ntvs_analysis.dat
 node_modules/
 
+# VSCode Directories
+.vscode/
+
 # Visual Studio 6 build log
 *.plg
 
